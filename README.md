@@ -1,0 +1,2 @@
+# ExplorerLite
+Basic explorerPanel Properties 
